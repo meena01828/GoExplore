@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Explore - GoExplore</title>
+  <link rel="stylesheet" href="../css/explore.css">
+  <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+</head>
+<body>
+
+  <!-- Header -->
+  <header class="header">
+    <button id="menuBtn" class="menu-btn"><i class='bx bx-menu'></i></button>
+    <div class="header-brand-group">
+      <img src="../images/logoo.png" alt="Logo" class="logo">
+      <h1>GoExplore</h1>
+    </div>
+  </header><br><br>
+
+  
+  <!-- Sidebar Menu -->
+  <nav class="sidebar" id="sidebar">
+    <button id="closeBtn" class="close-btn"><i class='bx bx-x'></i></button>
+    <ul>
+      <li><a href="../html/home.html"><i class='bx bx-home'></i> Home</a></li>
+  <li><a href="../html/home.html#about"><i class='bx bx-info-circle'></i> About</a></li>
+      <li><a href="../html/explore.html" ><i class='bx bx-compass'></i>Explore</a></li>
+      <li><a href="../html/gallery.html"><i class='bx bx-images'></i>Gallery</a></li>
+      <li><a href="../html/contact.html"><i class='bx bx-phone'></i> Contact</a></li>
+    </ul>
+  </nav>
+
+
+  <!-- Top Bar: Search + Categories -->
+  <div class="top-bar">
+    <input type="text" id="searchInput" placeholder="Search destinations...">
+    <section class="categories">
+      <button class="cat-btn" data-cat="beach">Beaches</button>
+      <button class="cat-btn" data-cat="hill">Hill Stations</button>
+      <button class="cat-btn" data-cat="monument">Monuments</button>
+      <button class="cat-btn" data-cat="waterfall">Waterfalls</button>
+      <button class="cat-btn" data-cat="adventure">Adventure</button>
+    </section>
+  </div>
+
+  <section class="intro">
+    <p><center>Click a category to see destinations. Example: click <strong>Beaches</strong> to view beach places.</p></center>
+    
+  </section>
+
+  <div class="main">
+  <h2><u>Explore Destinations:</u></h2>
+  <div id="allDestinations" class="destinations-grid"></div>
+</div>
+  <script src="../js/explore.js"></script>
+</body>
+</html>

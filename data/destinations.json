@@ -1,0 +1,1251 @@
+[
+  { 
+    
+    "id": "goa",
+    "name": "Goa Beach",
+    "place": "Goa, India",
+    "category": "beach",
+    "shortDesc": "Golden sands, vibrant nightlife, and water sports.",
+    "poster": "Admin",
+    "description": "Goa, India’s smallest state, is a tropical paradise famous for its sun-kissed beaches, vibrant nightlife, Portuguese heritage, and rich culture. North Goa attracts party-goers with bustling beaches like Baga and Calangute, lively markets, and water sports, while South Goa offers serene beaches like Palolem and Agonda for relaxation and luxury stays. Beyond beaches, it features historic forts, churches, spice plantations, and waterfalls. The best time to visit is November to February, when the weather is pleasant, festivals like Christmas, New Year, and Carnival enliven the region, and outdoor activities are perfect.",
+    "activities": [
+      {"name": "Jet Ski", "img": "../images/jet1.jpg"},
+      {"name": "Parasailing", "img": "../images/jet2.webp"},
+      {"name": "Sunset Cruise", "img": "../images/jet3.jpg"}
+    ],
+    "foods": [
+      {"name": "Seafood Thali", "img": "../images/gdish1.jpg"},
+      {"name": "Bebinca", "img": "../images/gdish2.jpg"},
+      {"name": "Feni", "img": "../images/gdish3.jpg"}
+    ],
+    
+    "video": "../videos/goa.mp4",
+    "images": ["../images/goa1.jpg", "../images/goa2.jpg", "../images/goa3.jpg"]
+  },
+  {
+    "id": "radhanagar",
+    "name": "Radhanagar Beach",
+    "place": "Havelock Island, Andaman, India",
+    "category": "beach",
+    "shortDesc": "Powdery white sand and crystal-clear water.",
+    "poster": "LocalGuide",
+    "description": "Radhanagar Beach is one of the most famous beaches in Havelock Island (Swaraj Dweep), Andaman & Nicobar Islands, often listed among the top beaches in Asia. Known for its pristine white sand, turquoise waters, and lush green surroundings, it offers a serene and unspoiled environment ideal for swimming, sunbathing, and nature walks. The beach is perfect for photography, relaxing under coconut palms, and enjoying stunning sunsets. The best time to visit is from October to May, when the weather is pleasant, skies are clear, and the sea is calm. It’s a must-visit for anyone seeking peace, natural beauty, and a tropical paradise experience.",
+    "activities": [
+      {"name":"Snorkeling","img":"../images/rdact1.jpg"},
+      {"name":"Swimming","img":"../images/rdact2.jpg"},
+      {"name":"Relaxing on Shore","img":"../images/rdact3.webp"} 
+    ],
+    "foods": [
+      {"name":"Seafood Curry","img":"../images/rddish1.jpg"},
+      {"name":"Coconut Prawn Curry","img":"../images/rddish2.jpg"},
+       {"name":"Barbeque Food","img":"../images/rddish3.jpg"}
+      ],
+    "video": "../videos/radhanagar.mp4",
+    "images": ["../images/rd1.jpg", "../images/rd3.png","../images/rd5.png"]
+  },
+  {
+    "id": "varkala",
+    "name": "Varkala Cliff Beach",
+    "place": "Kerala, India",
+    "category": "beach",
+    "shortDesc": "Cliffside views with cafes and yoga centers.",
+    "poster": "Wanderer",
+    "description": "Varkala Cliff Beach in Kerala is a unique coastal destination where red cliffs rise dramatically above the Arabian Sea, offering breathtaking views. The beach is famous for its clean sands, natural springs, and vibrant cliff-top cafes, shops, and Ayurvedic centers. Visitors can enjoy sunbathing, swimming, paragliding, and Ayurvedic massages, while also witnessing spectacular sunsets from the cliffs. The best time to visit is from October to March, when the weather is pleasant, the sea is calm, and the region is ideal for sightseeing and relaxation.",
+    "activities": [
+      {"name":"Yoga","img":"../images/varkact1.jpg" },
+      {"name":"Cliff Walks","img":"../images/varkact2.jpg"},
+      {"name":"Surfing","img":"../images/varkact4.jpg"}
+    ],
+    "foods": [
+      {"name":"Appam with stew","img":"../images/varkdish.jpg"},
+      {"name":"Banana Fritters","img":"../images/varkdish2.webp"},
+      {"name":"Naadan Kozhi Curry","img":"../images/varkdish3.webp"}
+      ],
+    "video": "../videos/varkala.mp4",
+    "images": ["../images/vk1.jpg", "../images/vk2.jpg","../images/vk3.jpg"]
+  },
+  {
+    "id": "bondi",
+    "name": "Bondi Beach",
+    "place": "Sydney, Australia",
+    "category": "beach",
+    "shortDesc": "Iconic surf beach with vibrant coastal culture.",
+    "poster": "TravelDesk",
+    "description": "Bondi Beach, located in Sydney, Australia, is one of the world’s most iconic beaches, famous for its golden sands, excellent surfing waves, and vibrant beach culture. It’s a hub for surfing, swimming, coastal walks, and lively cafes and restaurants along the promenade. The Bondi to Coogee coastal walk offers stunning ocean views and scenic cliffs. The best time to visit is during Australian summer, from December to February, when the weather is warm and perfect for beach activities, sunbathing, and outdoor events.",
+    "activities": [
+      {"name":"Surfing","img":"../images/bonact1.avif"},
+      {"name":"Ben Buckler Point","img":"../images/bonact2.avif"},
+      {"name":"Explore Gertrude & Alice","img":"../images/bonact3.avif"}
+     ],
+    "foods": [
+      {"name":"Pancakes & Breakfast Bowls","img":"../images/bondish1.jpg"},
+      {"name":"Avocado Toast","img":"../images/bondish2.avif"},
+      {"name":"Ice Cream & Gelato","img":"../images/bondish3.webp"}
+    ],
+    "video": "../videos/bondi.mp4",
+    "images": ["../images/bn-3.jpg", "../images/bn-2.jpg","../images/bn-1.jpg"]
+  },
+  {
+    "id": "whitehaven",
+    "name": "Whitehaven Beach",
+    "place": "Whitsundays, Australia",
+    "category": "beach",
+    "shortDesc": "Seven kilometers of pure white silica sand.",
+    "poster": "NatureFan",
+    "description": "Whitehaven Beach, located in the Whitsunday Islands, Australia, is renowned for its pure white silica sand, crystal-clear turquoise waters, and untouched natural beauty. Stretching over 7 kilometers, it’s ideal for relaxing, swimming, snorkeling, and photography, offering a serene and tranquil atmosphere away from crowds. The best time to visit is from June to October, during the dry season, when the weather is sunny, and the waters are calm and perfect for exploring the reef and surrounding islands.",
+    "activities": [
+      {"name":"Hike to Hill Inlet Lookout","img":"../images/whact1.jpg"},
+      {"name":"Cruise the Whitsundays","img":"../images/whact2.jpg"},
+      {"name":"Photography","img":"../images/whact3.jpg"}
+     ],
+    "foods": [
+      {"name":"BBq Meat","img":"../images/whdish1.jpg"},
+      {"name":"Tropical Fruits","img":"../images/whdish2.avif"}
+],
+    "video": "../videos/whiteheaven.mp4",
+    "images": ["../images/wh2.jpg", "../images/wh3.jpg","../images/wh1.jpg"]
+  },
+  {
+    "id": "nacpan",
+    "name": "Nacpan Beach",
+    "place": "Palawan, Philippines",
+    "category": "beach",
+    "shortDesc": "Untouched coastline with calm waters.",
+    "poster": "IslandGuide",
+    "description": "Nacpan Beach, located in Palawan, Philippines, is a stunning and tranquil destination famous for its long stretch of golden sand, clear turquoise waters, and palm-fringed shoreline. It’s ideal for swimming, sunbathing, beach walks, and enjoying peaceful sunsets away from crowded tourist spots. The best time to visit is from November to May, during the dry season, when the weather is sunny, the sea is calm, and the beach is perfect for relaxation and photography.",
+     "activities":[
+      {"name":"Sunbathing","img":"../images/nacact1.jpg"},
+      {"name":"Kayaking","img":"../images/nacact2.jpg"},
+      {"name":"Twin Beaches Lookout","img":"../images/nacact3.jpeg"}
+     ],
+    "foods": [
+      {"name":"Kinilaw","img":"../images/nacdish1.jpg"},
+      {"name":"Avocado Toast","img":"../images/nacdish2.avif"},
+      {"name":"Ice Cream & Gelato","img":"../images/nacdish3.webp"}
+    ],
+  
+    "video": "../videos/nacpan.mp4",
+    "images": ["../images/np1.jpg", "../images/np2.jpg","../images/np3.webp"]
+  },
+  {
+    "id": "shipwreck",
+    "name": "Navagio Beach (Shipwreck Beach)",
+    "place": "Zakynthos, Greece",
+    "category": "beach",
+    "shortDesc": "Secluded cove with turquoise waters.",
+    "poster": "TravelExplorer",
+    "description": "Navagio Beach (Shipwreck Beach), located in Zakynthos, Greece, is one of the most photographed beaches in the world, famous for its dramatic cliffs, white sandy shore, crystal-clear turquoise waters, and the iconic shipwreck resting on the sand. Accessible only by boat, it’s perfect for swimming, sunbathing, cliff photography, and boat tours. The best time to visit is from May to September, when the weather is warm, the sea is calm, and the island is ideal for sightseeing and water activities.",
+     "activities":[
+      {"name":"Boat Trips","img":"../images/navact1.jpg"},
+      {"name":"Blue Caves Excursions","img":"../images/navact2.avif"},
+      {"name":"Hiking around the Cliff Rims","img":"../images/navact3.jpg"}
+     ],
+    "foods": [
+      {"name":"Sartsa","img":"../images/navdish1.jpg"},
+      {"name":"Kumquat liqueur","img":"../images/navdish2.webp"},
+      {"name":"Fytoura","img":"../images/navdish3.jpg"}
+    ],
+    "video": "../videos/Navagio Beach.mp4",
+    "images": ["../images/nav1.jpg", "../images/nav2.jpg","../images/nav3.jpg"]
+  },
+  {
+    "id": "hiddenbeach",
+    "name": "Playa del Amor (Hidden Beach)",
+    "place": "Marieta Islands, Mexico",
+    "category": "beach",
+    "shortDesc": "Secluded beach inside a crater.",
+    "poster": "NatureLover",
+    "description": "Playa del Amor (Hidden Beach), located in the Marieta Islands, Mexico, is a unique and secluded beach famous for its hidden cove inside a crater-like formation, surrounded by turquoise waters and lush cliffs. Accessible only by swimming or kayaking through a short tunnel, it’s ideal for snorkeling, sunbathing, and exploring a rare natural wonder. The best time to visit is from November to May, when the weather is dry, the sea is calm, and conditions are perfect for swimming and sightseeing.",
+     "activities":[
+      {"name":"Snorkeling","img":"../images/playaact1.avif"},
+      {"name":"Kayaking","img":"../images/playaact2.jpg"},
+      {"name":"Romantic Strolls","img":"../images/playaact3.jpeg"}
+     ],
+    "foods": [
+      {"name":"Fresh Fish Tacos","img":"../images/playadish1.jpg"},
+      {"name":"Smoked Marlin Tostadas","img":"../images/playadish2.jpg"},
+      {"name":"Tamales de Elote","img":"../images/playadish3.webp"}
+    ],
+    "video": "../videos/hidden beach.mp4",
+    "images": ["../images/playa1.jpg", "../images/playa2.webp","../images/playa3.webp"]
+  },
+  {
+    "id": "praiamarinha",
+    "name": "Praia da Marinha",
+    "place": "Algarve, Portugal",
+    "category": "beach",
+    "shortDesc": "Cliffs and clear waters ideal for photography.",
+    "poster": "TravelDesk",
+    "description": "Praia da Marinha, located in the Algarve region of Portugal, is celebrated for its dramatic limestone cliffs, golden sand, crystal-clear waters, and stunning rock formations. It’s ideal for swimming, snorkeling, photography, and exploring sea caves, making it one of the most picturesque beaches in Europe. The best time to visit is from May to September, when the weather is warm, the skies are clear, and the waters are perfect for swimming and sightseeing.",
+     "activities":[
+      {"name":"Boat Tours","img":"../images/portact1.jpg"},
+      {"name":"Hiking the Seven Hanging Valleys Trail","img":"../images/portact2.jpg"}
+     ],
+    "foods": [
+      {"name":"Grilled Sardines","img":"../images/portdish1.jpg"},
+      {"name":"Pastel de Nata","img":"../images/portdish2.jpg"}
+    ],
+    "video": "../videos/praiamarinha.mp4",
+    "images": ["../images/port1.webp", "../images/port2.jpg","../images/port3.jpg"]
+  },
+  {
+    "id": "ansesource",
+    "name": "Anse Source d’Argent",
+    "place": "La Digue, Seychelles",
+    "category": "beach",
+    "shortDesc": "Pink sand with calm turquoise waters.",
+    "poster": "IslandLover",
+    "description": "Anse Source d’Argent, located on La Digue Island, Seychelles, is famous for its pink-hued sand, towering granite boulders, and clear turquoise waters, creating one of the most photographed beaches in the world. It’s perfect for swimming, snorkeling, photography, and leisurely strolls in a tranquil tropical setting. The best time to visit is from April to October, when the weather is dry, the seas are calm, and the natural beauty is at its peak.",
+    "activities":[
+      {"name":"Cycling Around La Digue","img":"../images/aract1.jpg"},
+      {"name":"Snorkeling","img":"../images/aract2.jpeg"},
+      {"name":"Sunbathing","img":"../images/aract3.jpg"}
+     ],
+    "foods": [
+      {"name":"Coconut Curry","img":"../images/ardish1.webp"},
+      {"name":" Fruits Platters","img":"../images/ardish2.jpg"},
+      {"name":"Octopus Salad","img":"../images/ardish3.webp"}
+    ],
+   
+    "video": "../videos/ansesource.mp4",
+    "images": ["../images/ar1.jpeg", "../images/ar2.jpg","../images/ar3.jpg"]
+  },
+  {
+    "id": "gracebay",
+    "name": "Grace Bay",
+    "place": "Turks and Caicos",
+    "category": "beach",
+    "shortDesc": "White sand and luxury resorts.",
+    "poster": "TravelExplorer",
+    "description": "Grace Bay, located in Turks and Caicos, is renowned for its powdery white sand, calm turquoise waters, and vibrant coral reefs, making it ideal for swimming, snorkeling, and relaxing in a luxurious tropical setting. The best time to visit is from December to April, when the weather is sunny, warm, and perfect for beach activities and water sports.",
+     "activities":[
+      {"name":"Hobie Cat","img":"../images/graceact1.jpg"},
+      {"name":"Snorkeling","img":"../images/graceact2.webp"},
+      {"name":"Kayaking","img":"../images/graceact3.webp"}
+     ],
+    "foods": [
+      {"name":"Conch Fritters","img":"../images/gracedish1.jpg"},
+      {"name":" Cracked Conch","img":"../images/gracedish2.webp"},
+      {"name":"Grilled Lobster","img":"../images/gracedish3.jpg"}
+    ],
+    "video": "../videos/gracebay.mp4",
+    "images": ["../images/grace1.jpg", "../images/grace2.jpg","../images/grace-3.webp"]
+  },
+  {
+    "id": "eagle",
+    "name": "Eagle Beach",
+    "place": "Aruba",
+    "category": "beach",
+    "shortDesc": "Wide sandy beach, calm waters, perfect for watersports.",
+    "poster": "BeachFan",
+    "description": "Eagle Beach, located in Aruba, is famous for its wide stretches of soft white sand, clear turquoise waters, and iconic fofoti trees, offering a peaceful and scenic beach experience. It’s ideal for swimming, sunbathing, water sports, and romantic sunsets. The best time to visit is from April to August, when the weather is warm, skies are clear, and the sea is perfect for beach activities.",
+      "activities":[
+      {"name":"Sunset Cruises","img":"../images/eagleact1.jpg"},
+      {"name":"Beach Volleyball","img":"../images/eagleact2.jpg"},
+      {"name":"Caribbean Night","img":"../images/eagleact3.jpg"}
+     ],
+    "foods": [
+      {"name":"Keshi Yena","img":"../images/eagledish1.jpg"},
+      {"name":" Pastechi","img":"../images/eagledish2.jpg"},
+      {"name":"Quesillo","img":"../images/eagledish3.webp"}
+    ],
+    "video": "../videos/eagle.mp4",
+    "images": ["../images/eagle1.jpg", "../images/eagle2.jpg","../images/eagle3.jpg"]
+  },
+  
+  {
+  "id": "manali",
+  "name": "Manali",
+  "place": "Himachal Pradesh, India",
+  "category": "hill",
+  "shortDesc": "Snow-capped mountains and scenic valleys.",
+  "poster": "TravelDesk",
+  "description": "Manali, located in Himachal Pradesh, India, is a picturesque hill station nestled in the Himalayas, famous for its snow-capped mountains, lush valleys, and vibrant adventure activities. Visitors can enjoy trekking, river rafting, paragliding, skiing, and exploring attractions like Solang Valley, Rohtang Pass, and Hadimba Temple. The best time to visit is from March to June for pleasant weather and adventure activities, and December to February for snowfall and winter sports.",
+  "activities": [
+    {"name": "Trekking", "img": "../images/manaliact1.webp"},
+    {"name": "Paragliding", "img": "../images/manaliact2.jpg"},
+    {"name": "River Rafting", "img": "../images/manaliact3.jpg"}
+  ],
+  "foods": [
+    {"name": "Siddu", "img": "../images/manalidish1.webp"},
+    {"name": "Babru", "img": "../images/manalidish2.jpg"},
+    {"name": "Aktori", "img": "../images/manalidish2.webp"}
+  ],
+  "video": "../videos/manali.mp4",
+  "images": ["../images/manali3.jpg","../images/manali2.jpg","../images/manali1.jpg"]
+},
+{
+    "id": "shimla",
+    "name": "Shimla",
+    "place": "Himachal Pradesh, India",
+    "category": "hill",
+    "shortDesc": "Historic hill town with colonial architecture.",
+    "poster": "Admin",
+    "description": "Shimla, located in Himachal Pradesh, India, is a popular hill station known for its colonial architecture, scenic pine forests, and panoramic Himalayan views. Famous attractions include The Ridge, Mall Road, Jakhoo Temple, and Kufri, offering sightseeing, nature walks, and adventure activities. The best time to visit is from March to June for pleasant weather and sightseeing, and December to February for snowfall and a winter wonderland experience.",
+    "activities": [
+      {"name": "Mall Road Stroll & Shopping", "img": "../images/shimlaact1.jpg"},
+      {"name": "Ice Skating", "img": "../images/shimlaact2.jpg"},
+      {"name": "Shopping", "img": "../images/shimlaact3.jpg"}
+    ],
+    "foods": [
+      {"name": "Channa Madra", "img": "../images/shimladish1.jpg"},
+      {"name": "Thukpa & Momos", "img": "../images/shimladish2.jpg"},
+      {"name": "Mittha", "img": "../images/shimladish3.webp"}
+    ],
+    "video": "../videos/shimla.mp4",
+    "images": ["../images/shimla1.jpg","../images/shimla2.jpg","../images/shimla3.jpg"]
+  },
+  {
+  "id": "ooty",
+  "name": "Ooty",
+  "place": "Tamil Nadu, India",
+  "category": "hill",
+  "shortDesc": "Beautiful Nilgiri hills with tea gardens.",
+  "poster": "NatureLover",
+  "description": "Ooty, located in Tamil Nadu, India, is a charming hill station in the Nilgiri Hills, known for its tea gardens, botanical gardens, serene lakes, and scenic viewpoints. Popular attractions include Ooty Lake, Doddabetta Peak, Botanical Garden, and Nilgiri Mountain Railway, offering boating, trekking, nature walks, and sightseeing. The best time to visit is from March to June for pleasant weather and outdoor activities, and September to November for clear skies and lush landscapes.",
+  "activities": [
+    {"name": "Boat Ride", "img": "../images/ootyact1.jpg"},
+    {"name": "Trekking", "img": "../images/ootyact2.jpg"},
+    {"name": "Photography", "img": "../images/ootyact3.jpg"}
+  ],
+  "foods": [
+    {"name": "Ooty Varkey", "img": "../images/ootydish1.jpg"},
+    {"name": "Homemade Chocolates", "img": "../images/ootydish2.jpeg"}
+  ],
+  "video": "../videos/ooty.mp4",
+  "images": ["../images/ooty1.jpg","../images/ooty2.jpg","../images/ooty3.webp"]
+},
+
+ {
+  "id": "zermatt",
+  "name": "Zermatt",
+  "place": "Switzerland",
+  "category": "hill",
+  "shortDesc": "Alpine village with the Matterhorn view.",
+  "poster": "SwissTour",
+  "description": "Zermatt, located in Switzerland, is a picturesque alpine town at the foot of the Matterhorn, famous for its snow-capped peaks, skiing, hiking trails, and charming Swiss chalets. Visitors can enjoy skiing, mountaineering, scenic train rides, and exploring the car-free village with luxury shops and cozy cafes. The best time to visit is from December to March for winter sports and snow activities, and June to September for hiking, sightseeing, and pleasant weather.",
+  "activities": [
+    {"name": "Skiing", "img": "../images/zact1.webp"},
+    {"name": "Hiking", "img": "../images/zact2.webp"},
+    {"name": "Cable Car Rides", "img": "../images/zact3.jpg"}
+  ],
+  "foods": [
+    {"name": "Swiss Cheese Fondue", "img": "../images/zdish1.webp"},
+    {"name": "Rösti", "img": "../images/zdish2.jpg"}
+  ],
+  "video": "../videos/switzerland.mp4",
+  "images": ["../images/z1.jpeg","../images/z2.jpg","../images/z3.jpg"]
+},
+  {
+  "id": "banff",
+  "name": "Banff",
+  "place": "Alberta, Canada",
+  "category": "hill",
+  "shortDesc": "Rocky Mountains and turquoise lakes.",
+  "poster": "NatureExplorer",
+  "description": "Banff, located in Alberta, Canada, is a stunning mountain town in Banff National Park, famous for its majestic Rocky Mountains, turquoise lakes, glaciers, and abundant wildlife. Visitors can enjoy hiking, skiing, canoeing, hot springs, and scenic drives along the Icefields Parkway. The best time to visit is from June to August for hiking and sightseeing, and December to March for skiing and winter sports.",
+  "activities": [
+    {"name": "Hiking", "img": "../images/banffact1.jpg"},
+    {"name": "Kayaking", "img": "../images/banffact2.webp"},
+    {"name": "Wildlife Photography", "img": "../images/banffact3.jpg"}
+  ],
+  "foods": [
+    {"name": "Poutine", "img": "../images/banffdish1.jpg"},
+    {"name": "Maple Syrup Desserts", "img": "../images/banffdish3.jpg"}
+  ],
+  "video": "../videos/banff.mp4",
+  "images": ["../images/banff1.jpg","../images/banff2.jpg","../images/banff3.jpg"]
+},
+
+  {
+  "id": "queenstown",
+  "name": "Queenstown",
+  "place": "New Zealand",
+  "category": "hill",
+  "shortDesc": "Adventure capital surrounded by mountains.",
+  "poster": "AdventureFan",
+  "description": "Queenstown, located on the South Island of New Zealand, is a vibrant adventure hub known for its stunning lake and mountain scenery, thrill sports, and outdoor activities. Popular experiences include bungee jumping, skydiving, skiing, hiking, and cruising on Lake Wakatipu. The best time to visit is from December to February for summer activities and sightseeing, and June to August for winter sports and skiing.",
+  "activities": [
+    {"name": "Bungee Jumping", "img": "../images/queenact1.jpg"},
+    {"name": "Jet Boating", "img": "../images/queenact2.jpg"},
+    {"name": "Hiking", "img": "../images/queen_act3.webp"}
+  ],
+  "foods": [
+    {"name": "Lamb Dishes", "img": "../images/queendish1.jpeg"},
+    {"name": "Pavlova", "img": "../images/queendish2.webp"},
+    {"name": "Fergburger", "img": "../images/queendish3.webp"}
+  ],
+  "video": "../videos/queenstown.mp4",
+  "images": ["../images/queen1.jpg","../images/queen2.jpg","../images/queen3.jpg"]
+},
+
+  {
+  "id": "chamonix",
+  "name": "Chamonix",
+  "place": "France",
+  "category": "hill",
+  "shortDesc": "Gateway to Mont Blanc and alpine adventures.",
+  "poster": "MountainGuide",
+  "description": "Chamonix, located in France at the foot of Mont Blanc, is a world-famous alpine town renowned for its mountain scenery, skiing, mountaineering, and adventure sports. Visitors can enjoy skiing, snowboarding, hiking, paragliding, and taking the Aiguille du Midi cable car for panoramic views. The best time to visit is from December to March for winter sports and June to September for hiking, sightseeing, and pleasant summer weather.",
+  "activities": [
+    {"name": "Sea of Ice Glacier", "img": "../images/chamact1.jpg"},
+    {"name": "Aiguille du Midi Cable", "img": "../images/chamact2.jpg"},
+    {"name": "Alpine Hiking", "img": "../images/chamact3.webp"}
+  ],
+  "foods": [
+    {"name": "Fondue Savoyarde", "img": "../images/chamdish1.webp"},
+    {"name": "Raclette", "img": "../images/chamdish2.webp"}
+  ],
+  "video": "../videos/chamonix.mp4",
+  "images": ["../images/cham2.jpg","../images/cham1.jpg","../images/cham3.jpg"]
+},
+
+ {
+  "id": "interlaken",
+  "name": "Interlaken",
+  "place": "Switzerland",
+  "category": "hill",
+  "shortDesc": "Between two lakes and surrounded by mountains.",
+  "poster": "TravelDesk",
+  "description": "Interlaken, located in Switzerland between Lake Thun and Lake Brienz, is a scenic town famous for its stunning alpine landscapes and adventure sports. Visitors can enjoy paragliding, skydiving, hiking, skiing, and boat rides, along with exploring nearby peaks like Jungfrau. The best time to visit is from June to September for summer activities and sightseeing, and December to March for winter sports and snow adventures.",
+  "activities": [
+    {"name": "Paragliding", "img": "../images/interact1.webp"},
+    {"name": "Boat Trips", "img": "../images/interact2.webp"},
+    {"name": "Hiking", "img": "../images/interact3.jpg"}
+  ],
+  "foods": [
+    {"name": "Cheese Fondue", "img": "../images/interdish1.jpeg"},
+    {"name": "Älplermagronen", "img": "../images/interdish2.webp"},
+    {"name": "Swiss Chocolate", "img": "../images/interdish3.webp"}
+  ],
+  "video": "../videos/interlaken.mp4",
+  "images": ["../images/inter1.jpg","../images/inter2.jpg","../images/inter3.webp"]
+},
+
+ {
+  "id": "patagonia",
+  "name": "Patagonia",
+  "place": "Chile/Argentina",
+  "category": "hill",
+  "shortDesc": "Remote mountains and glaciers in South America.",
+  "poster": "NatureExplorer",
+  "description": "Patagonia, spanning southern Chile and Argentina, is a vast and remote region renowned for its dramatic landscapes of glaciers, mountains, fjords, and windswept plains. Visitors can enjoy trekking in Torres del Paine, glacier tours, wildlife spotting, and scenic drives. The best time to visit is from October to March, during the Southern Hemisphere’s spring and summer, when the weather is milder and outdoor activities are more accessible.",
+  "activities": [
+    {"name": "Trekking", "img": "../images/patagoniaact1.webp"},
+    {"name": "Camping under the Southern Sky", "img": "../images/patagoniaact2.webp"},
+    {"name": "Fjord Cruises", "img": "../images/patagoniaact3.webp"}
+  ],
+  "foods": [
+    {"name": "Humitas", "img": "../images/patagoniadish1.jpg"},
+    {"name": "Pebre with Bread", "img": "../images/patagoniadish2.jpg"}
+  ],
+  "video": "../videos/patagonia.mp4",
+  "images": ["../images/patagonia1.jpg","../images/patagonia2.jpg","../images/patagonia3.jpg"]
+},
+
+
+ {
+  "id": "denali",
+  "name": "Denali National Park",
+  "place": "Alaska, USA",
+  "category": "hill",
+  "shortDesc": "Highest peak in North America with wildlife.",
+  "poster": "AdventureFan",
+  "description": "Denali National Park, located in Alaska, USA, is a vast wilderness renowned for its towering Denali peak, pristine landscapes, and abundant wildlife including bears, moose, and caribou. Spanning over six million acres, it offers visitors hiking, wildlife spotting, flightseeing tours, and sled dog demonstrations. The park is mostly accessible via bus tours beyond the first 15 miles, and its rugged terrain provides a perfect escape for nature lovers and adventure enthusiasts. The best time to visit is from mid-May to mid-September, when the weather is mild, trails are open, and wildlife is active.",
+  "activities": [
+    {"name": "Flightseeing", "img": "../images/denaliact1.jpg"},
+    {"name": "Packrafting", "img": "../images/denaliact2.jpg"},
+    {"name": "Husky Tours", "img": "../images/denaliact3.jpg"}
+  ],
+  "foods": [
+    {"name": "Bean Burger", "img": "../images/denalidish1.jpg"},
+    {"name": "Wild Berry Pie", "img": "../images/denalidish2.png"}
+  ],
+  "video": "../videos/denali.mp4",
+  "images": ["../images/denali2.jpg","../images/denali1.jpg","../images/denali3.jpg"]
+},
+ {
+  "id": "fjords",
+  "name": "Norwegian Fjords",
+  "place": "Norway",
+  "category": "hill",
+  "shortDesc": "Dramatic cliffs and fjord scenery.",
+  "poster": "NatureFan",
+  "description": "The Norwegian Fjords, located in Norway, are a spectacular natural wonder known for their steep cliffs, deep blue waters, cascading waterfalls, and dramatic glacial landscapes. These fjords, including famous ones like Geirangerfjord and Nærøyfjord, offer cruises, hiking, kayaking, and scenic photography opportunities, showcasing pristine nature and charming villages along the shores. The best time to visit is from May to September, when the weather is mild, days are long, and the fjords are fully navigable for tours and outdoor activities.",
+  "activities": [
+    {"name": "Cruise Tours", "img": "../images/fjordsact1.jpg"},
+    {"name": "Hiking", "img": "../images/fjordsact2.webp"},
+    {"name": "Cycling Tours", "img": "../images/fjordsact3.jpg"}
+  ],
+  "foods": [
+    {"name": "Klippfisk", "img": "../images/fjordsdish1.jpeg"},
+    {"name": "Cloudberries & Desserts", "img": "../images/fjordsdish2.jpeg"},
+    {"name": "Smoked Salmon", "img": "../images/fjordsdish3.jpg"}
+  ],
+  "video": "../videos/norway.mp4",
+  "images": ["../images/fjords1.jpg","../images/fjords2.jpg","../images/fjords3.jpg"]
+},
+
+  {
+  "id": "santorini",
+  "name": "Santorini Hills",
+  "place": "Greece",
+  "category": "hill",
+  "shortDesc": "Whitewashed cliffs with caldera views.",
+  "poster": "TravelExplorer",
+  "description": "Santorini Hills, located in Greece, refers to the scenic elevated areas of the island famous for their white-washed houses, blue-domed churches, and breathtaking views of the caldera and Aegean Sea. Visitors can enjoy sunset watching, walking through charming villages like Oia and Fira, photography, and local cuisine. The best time to visit is from April to October, when the weather is warm, skies are clear, and outdoor activities are most enjoyable.",
+  "activities": [
+    {"name": "Sunset Watching in Oia", "img": "../images/santoriniact1.jpg"},
+    {"name": "Archaeological Visits", "img": "../images/santoriniact2.jpg"},
+    {"name": "Volcano Boat Trips", "img": "../images/santoriniact3.jpg"}
+  ],
+  "foods": [
+    {"name": "Greek Salad", "img": "../images/santorinidish1.jpg"},
+    {"name": "Baklava", "img": "../images/santorinidish2.webp"}
+  ],
+  "video": "../videos/santorini.mp4",
+  "images": ["../images/santorini1.jpg","../images/santorini2.avif","../images/santorini3.webp"]
+},
+
+  
+  {
+  "id": "tajmahal",
+  "name": "Taj Mahal",
+  "place": "Agra, India",
+  "category": "monument",
+  "shortDesc": "Iconic white marble mausoleum.",
+  "poster": "HeritageAdmin",
+  "description": "Taj Mahal, located in Agra, India, is an iconic UNESCO World Heritage Site and one of the world’s most famous monuments, renowned for its white marble architecture, intricate carvings, and symmetrical gardens. Built by Emperor Shah Jahan as a symbol of love, it attracts millions of visitors for sightseeing, photography, and cultural appreciation. The best time to visit is from October to March, when the weather is pleasant and ideal for exploring the monument and its surrounding gardens.",
+  "activities": [
+    {"name": "Agra Fort Tour", "img": "../images/tajact1.jpg"},
+    {"name": "Mehtab Bagh Visit", "img": "../images/tajact2.jpg"},
+    {"name": "Local Handicraft Shopping", "img": "../images/tajact3.jpg"}
+  ],
+  "foods": [
+    {"name": "Petha", "img": "../images/tajdish1.jpg"},
+    {"name": "Mughlai Cuisine", "img": "../images/tajdish2.webp"}
+  ],
+  "video": "../videos/tajmahal.mp4",
+  "images": ["../images/taj1.jpeg","../images/taj2.jpg","../images/taj3.jpg"]
+},
+
+  {
+  "id": "qutubminar",
+  "name": "Qutub Minar",
+  "place": "Delhi, India",
+  "category": "monument",
+  "shortDesc": "Tallest brick minaret in the world.",
+  "poster": "HeritageAdmin",
+  "description": "Qutub Minar, located in Delhi, India, is a UNESCO World Heritage Site and one of the tallest brick minarets in the world, standing at 73 meters. Built in the 12th century, it showcases intricate Indo-Islamic architecture with detailed carvings and inscriptions. Visitors can explore the tower, surrounding Qutub complex, and historical monuments, making it a popular site for history and architecture enthusiasts. The best time to visit is from October to March, when the weather is cool and pleasant for sightseeing.",
+  "activities": [
+    {"name": "Iron Pillar of Delhi", "img": "../images/minaract1.jpg"},
+    {"name": "Evening Light & Sound Shows", "img": "../images/minaract2.jpg"}
+  ],
+  "foods": [
+    {"name": "Chaat & Street Food", "img": "../images/minardish1.jpg"},
+    {"name": "Chole Bhature", "img": "../images/minardish2.webp"}
+  ],
+  "video": "../videos/qutub minar.mp4",
+  "images": ["../images/minar2.jpg","../images/minar3.jpg","../images/minar4.jpg"]
+},
+
+  {
+  "id": "amerfort",
+  "name": "Amber Fort",
+  "place": "Jaipur, India",
+  "category": "monument",
+  "shortDesc": "Majestic hill fort with beautiful architecture.",
+  "poster": "TravelDesk",
+  "description": "Amber Fort, located in Jaipur, India, is a majestic hilltop fort known for its Rajput architecture, ornate palaces, intricate mirror work, and panoramic views of Maota Lake. Built in the 16th century, it offers visitors experiences like exploring palaces and courtyards, elephant rides, light and sound shows, and photography of its stunning architecture. The best time to visit is from October to March, when the weather is pleasant and ideal for sightseeing and outdoor exploration.",
+  "activities": [
+    {"name": "Elephant Ride", "img": "../images/amberact1.webp"},
+    {"name": "Sheesh Mahal", "img": "../images/amberact2.jpg"},
+    {"name": "Light & Sound Show in Evening", "img": "../images/amberact3.webp"}
+  ],
+  "foods": [
+    {"name": "Dal Baati Churma", "img": "../images/amberdish1.jpg"},
+    {"name": "Rajasthani Thali", "img": "../images/amberdish2.jpg"},
+    {"name": "Ker Sangri", "img": "../images/amberdish3.jpg"}
+  ],
+  "video": "../videos/amberfort.mp4",
+  "images": ["../images/amber1.jpg","../images/amber2.jpg","../images/amber3.jpg"]
+},
+
+
+  {
+  "id": "greatwall",
+  "name": "Great Wall of China",
+  "place": "China",
+  "category": "monument",
+  "shortDesc": "Ancient wall spanning thousands of miles.",
+  "poster": "WorldHeritage",
+  "description": "The Great Wall of China, located across northern China, is one of the most iconic monuments in the world, stretching over 21,000 kilometers. Built over several dynasties, it showcases ancient military architecture with watchtowers, battlements, and fortifications. Visitors can trek along restored sections, enjoy panoramic mountain views, and explore historical sites along the wall. The best time to visit is from April to June and September to October, when the weather is mild, skies are clear, and crowds are manageable.",
+  "activities": [
+    {"name": "Hiking", "img": "../images/chinaact1.webp"},
+    {"name": "Photography", "img": "../images/chinaact2.jpg"},
+    {"name": "Cable Car & Toboggan Rides", "img": "../images/greatwall_activity3.jpg"}
+  ],
+  "foods": [
+    {"name": "Hot Pot", "img": "../images/chinadish1.webp"},
+    {"name": "Dumplings", "img": "../images/chinadish2.jpg"}
+  ],
+  "video": "../videos/wall of china.mp4",
+  "images": ["../images/china1.jpg","../images/china2.jpg","../images/china3.jpg"]
+},
+{
+  "id": "colosseum",
+  "name": "Colosseum",
+  "place": "Rome, Italy",
+  "category": "monument",
+  "shortDesc": "Ancient Roman amphitheater.",
+  "poster": "TravelDesk",
+  "description": "The Colosseum, located in Rome, Italy, is an iconic ancient amphitheater and a UNESCO World Heritage Site, famous for its grand architecture, historical significance, and gladiatorial arenas. Built nearly 2,000 years ago, it offers visitors a glimpse into ancient Roman engineering, culture, and entertainment practices. The best time to visit is from April to June and September to October, when the weather is pleasant and ideal for sightseeing and exploring the monument.",
+  "activities": [
+    {"name": "Underground & Arena Tours", "img": "../images/colact1.jpg"},
+    {"name": "Guided Tours", "img": "../images/colact2.webp"},
+    {"name": "Photography", "img": "../images/colact3.webp"}
+  ],
+  "foods": [
+    {"name": "Pasta Carbonara", "img": "../images/coldish1.jpg"},
+    {"name": "Gelato", "img": "../images/coldish2.jpg"}
+  ],
+  "video": "../videos/colossuem.mp4",
+  "images": ["../images/col1.jpeg","../images/col2.webp","../images/col3.jpg"]
+},
+{
+  "id": "petra",
+  "name": "Petra",
+  "place": "Jordan",
+  "category": "monument",
+  "shortDesc": "Ancient city carved in rock.",
+  "poster": "HeritageExplorer",
+  "description": "**Petra**, located in **Jordan**, is an ancient city famous for its **rock-cut architecture, rose-colored sandstone cliffs, and archaeological significance**. Known as the “Rose City,” it offers visitors **exploration of the Treasury, Monastery, Siq, and ancient tombs**, making it a unique historical and cultural experience. The **best time to visit** is from **March to May and September to November**, when the weather is moderate and ideal for walking and sightseeing.",
+  "activities": [
+    {"name": "Hiking", "img": "../images/petraact1.jpg"},
+    {"name": "Petra by Night", "img": "../images/petraact2.jpg"},
+    {"name": "Camel, Donkey & Horse Rides", "img": "../images/petraact3.jpg"}
+  ],
+  "foods": [
+    {"name": "Tabbouleh & Fattoush", "img": "../images/petradish1.jpg"},
+    {"name": "Bedouin Tea & Coffee", "img": "../images/petradish2.jpg"}
+  ],
+  "video": "../videos/petra.mp4",
+  "images": ["../images/petra1.jpg","../images/petra2.jpg","../images/petra3.jpg"]
+},
+{
+  "id": "machupicchu",
+  "name": "Machu Picchu",
+  "place": "Peru",
+  "category": "monument",
+  "shortDesc": "Inca citadel in the Andes.",
+  "poster": "TravelExplorer",
+  "description": "Petra, located in Jordan, is an ancient city famous for its rock-cut architecture, rose-colored sandstone cliffs, and archaeological significance. Known as the “Rose City,” it offers visitors exploration of the Treasury, Monastery, Siq, and ancient tombs, making it a unique historical and cultural experience. The best time to visit is from March to May and September to November, when the weather is moderate and ideal for walking and sightseeing.",
+  "activities": [
+    {"name": "Hiking", "img": "../images/machu-picchuact1.jpg"},
+    {"name": "Visit Aguas Calientes", "img": "../images/machu-picchuact2.jpg"},
+    {"name": "Birdwatching & Nature Walks", "img": "../images/machu-picchuact3.jpg"}
+  ],
+  "foods": [
+    {"name": "Papa a la Huancaína", "img": "../images/machu-picchudish1.jpg"},
+    {"name": "Quinoa Dishes", "img": "../images/machu-picchudish2.webp"}
+  ],
+  "video": "../videos/machupichu.mp4",
+  "images": ["../images/machu-picchu1.avif","../images/machu-picchu2.jpg","../images/machu-picchu3.webp"]
+},
+
+  {
+  "id": "angkorwat",
+  "name": "Angkor Wat",
+  "place": "Cambodia",
+  "category": "monument",
+  "shortDesc": "Largest religious monument in the world.",
+  "poster": "HeritageAdmin",
+  "description": "Angkor Wat, located in Cambodia, is the world’s largest religious monument and a UNESCO World Heritage Site, renowned for its intricate Khmer architecture, expansive temple complex, and historical significance. Visitors can explore the temple’s towers, bas-reliefs, and surrounding moats, experiencing a remarkable blend of art, history, and spirituality. The best time to visit is from November to March, when the weather is cooler and drier, ideal for sightseeing and photography.",
+  "activities": [
+    {"name": "Angkor Wat Temple Tour", "img": "../images/watact1.jpg"},
+    {"name": "Cycling Tours", "img": "../images/watact2.webp"},
+    {"name": "Boat Tours on Tonle Sap Lake", "img": "../images/watact3.jpg"}
+  ],
+  "foods": [
+    {"name": "Sticky Rice & Mango", "img": "../images/watdish1.png"},
+    {"name": "Fried Spring Rolls", "img": "../images/watdish2.webp"}
+  ],
+  "video": "../videos/wat.mp4",
+  "images": ["../images/wat1.jpg","../images/wat2.webp","../images/wat3.jpg"]
+},
+{
+  "id": "stonehenge",
+  "name": "Stonehenge",
+  "place": "United Kingdom",
+  "category": "monument",
+  "shortDesc": "Prehistoric stone circle.",
+  "poster": "HistoryFan",
+  "description": "Stonehenge, located in the United Kingdom, is a prehistoric monument famous for its mysterious arrangement of massive standing stones and ancient cultural significance. Believed to have been built between 3000 and 2000 BCE, it attracts visitors interested in archaeology, history, and astronomy, as the stones are aligned with solstices. The best time to visit is from late spring to early autumn (May to September), when the weather is mild and suitable for walking around the site.",
+  "activities": [
+    {"name": "Visitor Centre Exploration", "img": "../images/stoneact1.webp"},
+    {"name": "Guided Tours", "img": "../images/stoneact2.webp"},
+    {"name": "Photography", "img": "../images/stoneact3.webp"}
+  ],
+  "foods": [
+    {"name": "Cream Tea", "img": "../images/stonedish1.jpg"},
+    {"name": "Sticky Toffee Pudding", "img": "../images/stonedish2.webp"}
+  ],
+  "video": "../videos/stone.mp4",
+  "images": ["../images/stone1.jpg","../images/stone2.jpg","../images/stone3.jpg"]
+},
+{
+  "id": "acropolis",
+  "name": "Acropolis of Athens",
+  "place": "Greece",
+  "category": "monument",
+  "shortDesc": "Ancient citadel with Parthenon.",
+  "poster": "HeritageExplorer",
+  "description": "The **Acropolis of Athens**, located in **Greece**, is an ancient citadel perched on a rocky hill, famous for its **classical Greek architecture, historic temples like the Parthenon, and cultural significance**. It offers visitors a chance to **explore ruins, learn about ancient Greek history, and enjoy panoramic views of Athens**. The **best time to visit** is from **March to June and September to November**, when the weather is pleasant and ideal for sightseeing.",
+  "activities": [
+    {"name": "Acropolis Museum Visit", "img": "../images/acropolisact1.webp"},
+    {"name": "Sunrise & Sunset Visits", "img": "../images/acropolisact2.jpg"},
+    {"name": "Shopping & Souvenirs", "img": "../images/acropolisact3.webp"}
+  ],
+  "foods": [
+    {"name": "Kleftiko", "img": "../images/acropolisdish1.jpg"},
+    {"name": "Baklava", "img": "../images/acropolisdish2.avif"}
+  ],
+  "video": "../videos/acropolis.mp4",
+  "images": ["../images/acropolis1.jpg","../images/acropolis2.jpg","../images/acropolis3.jpg"]
+},
+{
+  "id": "statueofliberty",
+  "name": "Statue of Liberty",
+  "place": "New York, USA",
+  "category": "monument",
+  "shortDesc": "Iconic statue symbolizing freedom and democracy.",
+  "poster": "HeritageWorld",
+  "description": "The **Statue of Liberty**, located in **New York, USA**, is an iconic symbol of freedom and democracy, famous for its **neoclassical design, towering presence, and historical significance**. Visitors can **take a ferry to Liberty Island, explore the museum, and enjoy panoramic views of New York Harbor and the city skyline**. The **best time to visit** is from **May to September**, when the weather is mild and ideal for sightseeing and outdoor activities.",
+  "activities": [
+    {"name": "Crown Access", "img": "../images/libertyact1.webp"},
+    {"name": "Photography", "img": "../images/libertyact2.jpg"},
+    {"name": "Ferry Ride", "img": "../images/libertyact3.jpg"}
+  ],
+  "foods": [
+    {"name": "American Hot Dogs", "img": "../images/libertydish1.webp"},
+    {"name": "Bagels with Cream Cheese & Lox", "img": "../images/libertydish2.webp"},
+    {"name": "New York Pizza", "img": "../images/libertydish3.jpg"}
+  ],
+  "video": "../videos/statueofliberty.mp4",
+  "images": ["../images/liberty1.jpg","../images/liberty2.jpg","../images/liberty3.webp"]
+},
+{
+  "id": "eiffeltower",
+  "name": "Eiffel Tower",
+  "place": "Paris, France",
+  "category": "monument",
+  "shortDesc": "Iconic wrought-iron lattice tower in Paris.",
+  "poster": "HeritageExplorer",
+  "description": "The **Eiffel Tower**, located in **Paris, France**, is one of the world’s most recognizable landmarks, famous for its **iron lattice architecture, panoramic city views, and cultural significance**. Visitors can **take elevators or climb stairs to observation decks, dine in its restaurants, and enjoy spectacular views of Paris, especially at sunset**. The **best time to visit** is from **April to June and September to October**, when the weather is pleasant and crowds are relatively smaller.",
+  "activities": [
+    {"name": "Evening Light Show", "img": "../images/eiffelact1.webp"},
+    {"name": "Seine River Cruise", "img": "../images/eiffelact2.webp"},
+    {"name": "Dining at Tower Restaurants", "img": "../images/eiffelact3.webp"}
+  ],
+  "foods": [
+    {"name": "French Pastries", "img": "../images/eiffeldish1.web"},
+    {"name": "Baguette", "img": "../images/eiffeldish2.jpg"}
+  ],
+  "video": "../videos/eiffeltower.mp4",
+  "images": ["../images/eiffel1.jpg","../images/eiffel2.jpg","../images/eiffel3.jpg"]
+},
+
+ {
+  "id": "jogfalls",
+  "name": "Jog Falls",
+  "place": "Karnataka, India",
+  "category": "waterfall",
+  "shortDesc": "One of India’s highest waterfalls.",
+  "poster": "NatureAdmin",
+  "description": "Jog Falls, located in Karnataka, India, is one of India’s highest and most spectacular waterfalls, formed by the Sharavathi River cascading down a height of 830 feet in four distinct streams. It’s a popular destination for sightseeing, photography, trekking, and enjoying the monsoon-fed roaring falls. The best time to visit is from August to October, when the waterfall is at its fullest and most breathtaking after the monsoon rains.",
+  "activities": [
+    {"name": "River Rafting", "img": "../images/jogfallsact1.jpg"},
+    {"name": "Visit Linganamakki Dam", "img": "../images/jogfallsact2.jpg"},
+    {"name": "Trekking nearby", "img": "../images/jogfallsact3.webp"}
+  ],
+  "foods": [
+    {"name": "Ragi Mudde", "img": "../images/jogfallsdish1.jpg"},
+    {"name": "Bisi Bele Bath", "img": "../images/jogfallsdish2.jpg"}
+  ],
+  "video": "../videos/jogfalls.mp4",
+  "images": ["../images/jogfalls1.jpg", "../images/jogfalls2.jpg","../images/jogfalls3.jpg"]
+},
+{
+  "id": "athirappilly",
+  "name": "Athirappilly Waterfalls",
+  "place": "Kerala, India",
+  "category": "waterfall",
+  "shortDesc": "The ‘Niagara of India’.",
+  "poster": "TravelGuide",
+  "description": "**Athirappilly Waterfalls**, located in **Kerala, India**, is often called the “Niagara of India” due to its **majestic cascade of 80 feet amidst lush greenery**. It is a popular spot for **sightseeing, photography, trekking, and enjoying the surrounding tropical forest**. The **best time to visit** is from **June to October**, during and just after the monsoon season, when the waterfall is at its most powerful and scenic.",
+  "activities": [
+    {"name": "Sightseeing", "img": "../images/athirappillyact1.webp"},
+    {"name": "Photography", "img": "../images/athirappillyact2.jpg"},
+    {"name": "Nature Walks", "img": "../images/athirappillyact3.jpg"}
+  ],
+  "foods": [
+    {"name": "Sadya", "img": "../images/athirappillydish1.webp"},
+    {"name": "Snacks", "img": "../images/athirappillydish2.jpg"}
+  ],
+  "video": "../videos/attip.mp4",
+  "images": ["../images/athirappilly2.jpg", "../images/athirappilly1.jpg","../images/athirappilly3.jpg"]
+},
+{
+  "id": "chitrakoot",
+  "name": "Chitrakoot Waterfalls",
+  "place": "Madhya Pradesh, India",
+  "category": "waterfall",
+  "shortDesc": "Spectacular waterfall in central India.",
+  "poster": "NatureExplorer",
+  "description": "**Chitrakoot Waterfalls**, located in **Madhya Pradesh, India**, is one of the **largest waterfalls in the state**, formed by the Indravati River and often called the “Niagara of India” of central India. It is famous for its **wide, multi-tiered cascade, scenic surroundings, and lush forests**, making it ideal for **sightseeing, photography, and nature walks**. The **best time to visit** is from **July to October**, when the waterfall is at its fullest and most spectacular after the monsoon season.",
+  "activities": [
+    {"name": "Sightseeing", "img": "../images/chitrakootact1.jpg"},
+    {"name": "Wildlife Watching", "img": "../images/chitrakootact2.avif"},
+    {"name": "Boat Rides", "img": "../images/chitrakootact3.jpg"}
+  ],
+  "foods": [
+    {"name": "Poha", "img": "../images/chitrakootdish1.jpg"},
+    {"name": "Bhutte Ka Kees", "img": "../images/chitrakootdish2.webp"},
+    {"name": "Dal Bafla", "img": "../images/chitrakootdish3.jpg"}
+  ],
+  "video": "../videos/chitrakoot.mp4",
+  "images": ["../images/chitrakoot3.jpg", "../images/chitrakoot2.jpg","../images/chitrakoot1.jpg"]
+},
+
+
+  {
+  "id": "niagara",
+  "name": "Niagara Falls",
+  "place": "USA/Canada",
+  "category": "waterfall",
+  "shortDesc": "Iconic and powerful waterfall on the border.",
+  "poster": "TravelExplorer",
+  "description": "**Niagara Falls**, located on the **border of the USA and Canada**, is one of the **most famous and powerful waterfalls in the world**, comprising the Horseshoe, American, and Bridal Veil Falls. It’s renowned for its **roaring waters, misty spray, and stunning panoramic views**, attracting millions of visitors for **boat rides, sightseeing, photography, and nearby attractions**. The **best time to visit** is from **June to August**, when the weather is warm, the water flow is impressive, and outdoor activities are fully operational.",
+  "activities": [
+    {"name": "Hornblower Cruise", "img": "../images/niagaraact1.jpg"},
+    {"name": "Helicopter Tours", "img": "../images/niagaraact2.webp"},
+    {"name": "Niagara SkyWheel", "img": "../images/niagaraact3.webp"}
+  ],
+  "foods": [
+    {"name": "Canadian Poutine", "img": "../images/niagaradish1.webp"},
+    {"name": "Ice Cream & Funnel Cakes", "img": "../images/niagaradish2.jpg"}
+  ],
+  "video": "../videos/niagara.mp4",
+  "images": ["../images/niagara3.jpg", "../images/niagara2.jpg","../images/niagara1.jpg"]
+},
+{
+  "id": "victoria",
+  "name": "Victoria Falls",
+  "place": "Zambia/Zimbabwe",
+  "category": "waterfall",
+  "shortDesc": "One of the largest waterfalls in the world.",
+  "poster": "AdventureAdmin",
+  "description": "Victoria Falls, located on the border of **Zambia and Zimbabwe**, is one of the **largest and most spectacular waterfalls in the world**, known locally as “Mosi-oa-Tunya” or “The Smoke That Thunders.” It features **massive cascading waters, roaring spray, and surrounding rainforest**, offering visitors opportunities for **sightseeing, photography, helicopter rides, bungee jumping, and river cruises**. The **best time to visit** is from **February to May**, just after the rainy season, when the falls are at their fullest and most dramatic.",
+  "activities": [
+    {"name": "Sunset Cruises", "img": "../images/victoriaact1.jpg"},
+    {"name": "Wildlife Safaris", "img": "../images/victoriaact2.webp"},
+    {"name": "Helicopter Ride", "img": "../images/victoriaact3.jpg"}
+  ],
+  "foods": [
+    {"name": "Chikanda", "img": "../images/victoriadish1.jpg"},
+    {"name": "Mandazi", "img": "../images/victoriadish2.jpg"}
+  ],
+  "video": "../videos/victoria.mp4",
+  "images": ["../images/victoria2.jpg", "../images/victoria3.jpg","../images/victoria1.jpg"]
+},
+{
+  "id": "angel",
+  "name": "Angel Falls",
+  "place": "Venezuela",
+  "category": "waterfall",
+  "shortDesc": "World’s highest uninterrupted waterfall.",
+  "poster": "AdventureGuide",
+  "description": "Angel Falls, located in **Venezuela**, is the **world’s tallest uninterrupted waterfall**, plunging nearly 979 meters from the Auyán-Tepuí mountain. It is renowned for its **dramatic height, pristine jungle surroundings, and breathtaking natural beauty**, attracting adventurers and nature enthusiasts for **hiking, boat trips, and photography**. The **best time to visit** is from **May to November**, during the rainy season, when the waterfall is at its fullest and most spectacular.",
+  "activities": [
+    {"name": "Boat Trips", "img": "../images/angelact1.avif"},
+    {"name": "Hiking", "img": "../images/angelact2.webp"},
+    {"name": "Canaima National Park Tours", "img": "../images/angelact3.jpg"}
+  ],
+  "foods": [
+    {"name": "Arepas", "img": "../images/angeldish1.jpg"},
+    {"name": "Pabellón Criollo", "img": "../images/angeldish2.webp"}
+  ],
+  "video": "../videos/angel.mp4",
+  "images": ["../images/angel1.jpg", "../images/angel2.jpg","../images/angel3.webp"]
+},
+{
+  "id": "plitvice",
+  "name": "Plitvice Lakes",
+  "place": "Croatia",
+  "category": "waterfall",
+  "shortDesc": "UNESCO World Heritage site with lakes and cascades.",
+  "poster": "NatureLover",
+  "description": "**Plitvice Lakes**, located in **Croatia**, is a UNESCO World Heritage Site famous for its **cascading turquoise lakes, lush forests, and stunning waterfalls**. The park offers visitors **walking trails, wooden boardwalks, boat rides, and breathtaking photography opportunities**, making it a paradise for nature lovers. The **best time to visit** is from **April to October**, when the weather is pleasant, the trails are accessible, and the lakes and waterfalls are at their most vibrant.",
+  "activities": [
+    {"name": "Boardwalk Walks", "img": "../images/plitviceact1.webp"},
+    {"name": "Boat Tours", "img": "../images/plitviceact2.webp"},
+    {"name": "Guided Tours", "img": "../images/plitviceact3.webp"}
+  ],
+  "foods": [
+    {"name": "Vegetarian Peka", "img": "../images/plitvicedish1.jpg"},
+    {"name": "Ajvar with Bread", "img": "../images/plitvicedish2.jpg"}
+  ],
+  "video": "../videos/plitvice.mp4",
+  "images": ["../images/plitvice1.jpg", "../images/plitvice2.jpg","../images/plitvice3.jpg"]
+},
+
+  {
+  "id": "ban_gioc",
+  "name": "Ban Gioc – Detian Falls",
+  "place": "Vietnam/China",
+  "category": "waterfall",
+  "shortDesc": "Spectacular border waterfall.",
+  "poster": "TravelAdmin",
+  "description": "**Ban Gioc – Detian Falls**, located on the **border of Vietnam and China**, is one of Asia’s most spectacular transnational waterfalls, famous for its **tiered cascades, lush green surroundings, and scenic river views**. Visitors can enjoy **boat rides, photography, trekking, and exploring the natural beauty of the border region**. The **best time to visit** is from **September to November**, after the rainy season, when the waterfalls are full and the weather is pleasant for sightseeing.",
+  "activities": [
+    {"name": "Bamboo Raft Ride near the Falls", "img": "../images/bangiocact1.jpg"},
+    {"name": "Photography at Karst Mountains", "img": "../images/bangiocact2.webp"},
+    {"name": "Cycling in Quay Son Valley", "img": "../images/bangiocact3.webp"}
+  ],
+  "foods": [
+    {"name": "Bánh Cuốn Cao Bằng (Steamed Rice Rolls)", "img": "../images/bangiocdish1.webp"},
+    {"name": "Roasted Duck with 7 Spices", "img": "../images/bangiocdish2.jpg"},
+    {"name": "Sticky Rice with Sesame Salt", "img": "../images/bangiocdish3.jpg"}
+  ],
+  "video": "../videos/detien.mp4",
+  "images": ["../images/bangioc1.jpg", "../images/bangioc2.png", "../images/bangioc3.webp"]
+},
+
+
+ {
+  "id": "yosemite",
+  "name": "Yosemite Falls",
+  "place": "California, USA",
+  "category": "waterfall",
+  "shortDesc": "Iconic waterfall in Yosemite National Park.",
+  "poster": "AdventureExplorer",
+  "description": "Yosemite Falls, located in **Yosemite National Park, California, USA**, is one of **North America’s tallest waterfalls**, renowned for its **spectacular three-tiered drop and stunning granite surroundings**. Visitors can enjoy **hiking trails, photography, and panoramic views from various lookout points**, making it a prime destination for nature lovers and adventure enthusiasts. The **best time to visit** is from **May to June**, when the snowmelt is at its peak and the falls are most powerful.",
+  "activities": [
+    {"name": "Hiking", "img": "../images/yosemiteact1.webp"},
+    {"name": "Sightseeing", "img": "../images/yosemiteact2.webp"},
+    {"name": "Bird Watching & Wildlife Spotting", "img": "../images/yosemiteact3.webp"}
+  ],
+  "foods": [
+    {"name": "Vegetarian Pho", "img": "../images/yosemitedish1.jpg"},
+    {"name": "Banh Xeo", "img": "../images/yosemitedish2.jpg"}
+  ],
+  "video": "../videos/yosemite.mp4",
+  "images": ["../images/yosemite1.jpeg", "../images/yosemite2.jpg", "../images/yosemite3.jpg"]
+},
+
+  {
+  "id": "iceland_skogafoss",
+  "name": "Skógafoss Waterfall",
+  "place": "Iceland",
+  "category": "waterfall",
+  "shortDesc": "Picturesque Icelandic waterfall with rainbow mist.",
+  "poster": "NatureExplorer",
+  "description": "Skógafoss Waterfall, located in **Iceland**, is one of the country’s most famous and picturesque waterfalls, known for its **wide cascade, 60-meter drop, and frequent rainbows created by the mist**. Visitors can enjoy **photography, hiking the adjacent trail to the top, and exploring the surrounding lush landscapes**. The **best time to visit** is from **May to September**, when the weather is milder and the area is accessible for sightseeing and outdoor activities.",
+  "activities": [
+    {"name": "Exploring Skógar Museum", "img": "../images/skogafossact1.webp"},
+    {"name": "Northern Lights Viewing", "img": "../images/skogafossact2.webp"},
+    {"name": "Hiking nearby", "img": "../images/skogafossact3.webp"}
+  ],
+  "foods": [
+    {"name": "Plokkfiskur", "img": "../images/skogafossdish1.webp"},
+    {"name": "Rúgbrauð", "img": "../images/skogafossdish2.webp"}
+  ],
+  "video": "../videos/skogafoss.mp4",
+  "images": ["../images/skogafoss1.jpg", "../images/skogafoss2.jpg", "../images/skogafoss3.jpg"]
+},
+{
+  "id": "milford",
+  "name": "Milford Sound Waterfall",
+  "place": "New Zealand",
+  "category": "waterfall",
+  "shortDesc": "Spectacular fjord waterfalls.",
+  "poster": "AdventureGuide",
+  "description": "**Milford Sound Waterfalls**, located in **Fiordland National Park, New Zealand**, are a series of dramatic waterfalls cascading from towering cliffs into the fiord’s deep waters. Renowned for their **spectacular natural beauty, lush rainforest surroundings, and serene fjord vistas**, they offer visitors opportunities for **boat cruises, kayaking, photography, and hiking nearby trails**. The **best time to visit** is from **November to March**, during the Southern Hemisphere’s summer, when the weather is milder and outdoor activities are most enjoyable.",
+  "activities": [
+    {"name": "Scenic Cruises", "img": "../images/milfordact1.jpg"},
+    {"name": "Kayaking Adventures", "img": "../images/milfordact2.webp"},
+    {"name": "Scenic Flights", "img": "../images/milfordact3.jpg"}
+  ],
+  "foods": [
+    {"name": "Vegetarian Hāngi", "img": "../images/milforddish1.webp"},
+    {"name": "Anzac Biscuits", "img": "../images/milforddish2.jpg"}
+  ],
+  "video": "../videos/milford sound.mp4",
+  "images": ["../images/milford1.jpg", "../images/milford2.jpg", "../images/milford3.jpg"]
+},
+{
+  "id": "iguazu",
+  "name": "Iguazu Falls",
+  "place": "Argentina / Brazil, South America",
+  "category": "waterfall",
+  "shortDesc": "A massive waterfall system stretching across two countries.",
+  "poster": "WorldExplorer",
+  "description": "**Iguazu Falls**, located on the border of **Argentina and Brazil** in South America, is one of the **largest and most spectacular waterfall systems in the world**, featuring over 275 individual falls surrounded by lush rainforest. Visitors can enjoy **boat rides, walking trails, panoramic viewpoints, wildlife spotting, and photography**. The **best time to visit** is from **August to October**, when water levels are high enough for impressive views but the weather is still pleasant for outdoor exploration.",
+  "activities": [
+    {"name": "Devil’s Throat Walkway", "img": "../images/iguazaact1.jpg"},
+    {"name": "Hiking", "img": "../images/iguazaact2.webp"},
+    {"name": "Eco Train Ride", "img": "../images/iguazaact3.webp"}
+  ],
+  "foods": [
+    {"name": "Cassava", "img": "../images/iguazadish1.webp"},
+    {"name": "Feijão Tropeiro", "img": "../images/iguazadish2.jpg"}
+  ],
+  "video": "../videos/Iguazu fall.mp4",
+  "images": ["../images/iguazu1.jpg", "../images/iguazu2.jpg", "../images/iguazu3.jpg"]
+},
+
+  {
+  "id": "valleyofflowers",
+  "name": "Valley of Flowers Trek",
+  "place": "Uttarakhand, India",
+  "category": "adventure",
+  "shortDesc": "UNESCO World Heritage alpine meadows.",
+  "poster": "AdventureAdmin",
+  "description": "**Valley of Flowers Trek**, located in **Uttarakhand, India**, is a UNESCO World Heritage Site renowned for its **breathtaking meadows filled with vibrant alpine flowers, snow-capped peaks, and diverse flora and fauna**. It offers trekkers **scenic trails, photography opportunities, and a chance to experience pristine natural beauty**. The **best time to visit** is from **July to September**, during the monsoon season when the flowers are in full bloom and the valley is most colorful.",
+  "activities": [
+    {"name": "Trekking in Alpine Meadows", "img": "../images/valleyofflowersact1.webp"},
+    {"name": "Visit Hemkund Sahib", "img": "../images/valleyofflowersact2.webp"},
+    {"name": "Camping in Ghangaria", "img": "../images/valleyofflowersact3.jpg"}
+  ],
+  "foods": [
+    {"name": "Aloo Ke Gutke", "img": "../images/valleyofflowersdish1.webp"},
+    {"name": "Jhangora Ki Kheer", "img": "../images/valleyofflowersdish2.webp"}
+  ],
+  "video": "../videos/valley of flowers.mp4",
+  "images": ["../images/valleyofflowers.jpg","../images/valleyofflowers2.jpg","../images/valleyofflowers3.jpg"]
+},
+{
+  "id": "hampta",
+  "name": "Hampta Pass Trek",
+  "place": "Himachal Pradesh, India",
+  "category": "adventure",
+  "shortDesc": "Himalayan trek connecting Kullu Valley to Lahaul.",
+  "poster": "AdventureAdmin",
+  "description": "**Hampta Pass Trek**, located in **Himachal Pradesh, India**, is a popular adventure trek known for its **diverse landscapes, including lush green valleys, dense forests, high-altitude meadows, and snow-covered mountains**. The trek offers **scenic views, camping experiences, and opportunities for photography and nature exploration**. The **best time to visit** is from **June to September**, when the weather is favorable, trails are accessible, and the landscapes are at their most vibrant.",
+  "activities": [
+    {"name": "Trekking through Kullu Valley", "img": "../images/hamptaact1.webp"},
+    {"name": "Visit Chandratal Lake", "img": "../images/hamptaact2.jpg"},
+    {"name": "Exploring Flora & Fauna", "img": "../images/hamptaact3.jpg"}
+  ],
+  "foods": [
+    {"name": "Siddu", "img": "../images/hamptadish1.webp"},
+    {"name": "Tudkiya Bhat", "img": "../images/hamptadish2.png"}
+  ],
+  "video": "../videos/hampta.mp4",
+  "images": ["../images/hampta1.webp","../images/hampta2.webp","../images/hampta3.jpg"]
+},
+{
+  "id": "roopkund",
+  "name": "Roopkund Trek",
+  "place": "Uttarakhand, India",
+  "category": "adventure",
+  "shortDesc": "Mystical lake surrounded by snow peaks.",
+  "poster": "AdventureGuide",
+  "description": "**Roopkund Trek**, located in **Uttarakhand, India**, is a thrilling high-altitude trek famous for the **mystery of Roopkund Lake, also called the “Skeleton Lake,” surrounded by snow-clad peaks and glaciers**. The trek offers **challenging trails, breathtaking Himalayan views, and opportunities for camping, photography, and adventure exploration**. The **best time to visit** is from **May to June and September to October**, when the weather is clear, trails are accessible, and conditions are safe for trekking.",
+  "activities": [
+    {"name": "Trekking to Glacial Lake", "img": "../images/roopkundact1.jpg"},
+    {"name": "Visit Nanda Devi Temple", "img": "../images/roopkundact2.jpg"},
+    {"name": "Star Gazing at High Camps", "img": "../images/roopkundact3.jpg"}
+  ],
+  "foods": [
+    {"name": "Chainsoo", "img": "../images/roopkunddish1.webp"},
+    {"name": "Bhatt Ki Churdkani", "img": "../images/roopkunddish2.jpg"}
+  ],
+  "video": "../videos/roopkund.mp4",
+  "images": ["../images/roopkund1.jpg","../images/roopkund2.webp","../images/roopkund3.jpg"]
+},
+
+
+  {
+  "id": "torresdelpaine",
+  "name": "Torres del Paine W Trek",
+  "place": "Patagonia, Chile",
+  "category": "adventure",
+  "shortDesc": "Famous trek in Patagonia’s national park with towering granite peaks and turquoise lakes.",
+  "poster": "AdventureExplorer",
+  "description": "**Torres del Paine W Trek**, located in **Patagonia, Chile**, is one of the world’s most iconic trekking routes, famous for its **dramatic mountain peaks, glaciers, turquoise lakes, and diverse wildlife**. The trek offers **multi-day hiking, camping, photography, and immersive experiences in pristine Patagonian landscapes**. The **best time to visit** is from **November to March**, during the Southern Hemisphere’s summer, when the weather is relatively stable and the trails are most accessible.",
+  "activities": [
+    {"name": "Trekking", "img": "../images/torresdelpaineact1.webp"},
+    {"name": "Glacier Exploration", "img": "../images/torresdelpaineact2.webp"},
+    {"name": "Boat Rides", "img": "../images/torresdelpaineact3.jpg"}
+  ],
+  "foods": [
+    {"name": "Porotos Granados", "img": "../images/torresdelpainedish1.webp"},
+    {"name": "Pastel de Choclo", "img": "../images/torresdelpainedish2.webp"}
+  ],
+  "video": "../videos/torres del.mp4",
+  "images": ["../images/torresdelpaine1.avif", "../images/torresdelpaine2.jpg","../images/torresdelpaine3.jpeg"]
+},
+{
+  "id": "kilimanjaro",
+  "name": "Mount Kilimanjaro Trek",
+  "place": "Tanzania",
+  "category": "adventure",
+  "shortDesc": "Africa’s highest peak trek.",
+  "poster": "AdventureAdmin",
+  "description": "Mount Kilimanjaro Trek, located in **Tanzania**, is a world-renowned adventure trek to **Africa’s highest peak**, famous for its **diverse climatic zones, stunning landscapes, and the challenge of summiting Uhuru Peak**. Trekkers experience **rainforests, alpine deserts, glaciers, and panoramic views** along the way. The **best time to visit** is from **January to March and June to October**, when the weather is drier, skies are clearer, and conditions are ideal for climbing.",
+  "activities": [
+    {"name": "Trekking", "img": "../images/kilimanjaroact1.webp"},
+    {"name": "Camping", "img": "../images/kilimanjaroact2.jpg"},
+    {"name": "Acclimatization Walks", "img": "../images/kilimanjaroact3.webp"}
+  ],
+  "foods": [
+    {"name": "Supu ya Mboga", "img": "../images/kilimanjarodish1.jpg"},
+    {"name": "Mandazi", "img": "../images/kilimanjarodish2.webp"}
+  ],
+  "video": "../videos/mount kilimanjaro.mp4",
+  "images": ["../images/kilimanjaro1.jpeg","../images/kilimanjaro2.jpeg","../images/kilimanjaro3.jpg"]
+},
+{
+  "id": "everest_base",
+  "name": "Everest Base Camp Trek",
+  "place": "Nepal",
+  "category": "adventure",
+  "shortDesc": "Iconic Himalayan adventure trek.",
+  "poster": "AdventureExplorer",
+  "description": "Everest Base Camp Trek, located in Nepal, is a legendary high-altitude trek that takes adventurers to the **foot of the world’s highest peak, Mount Everest**, offering **breathtaking Himalayan scenery, Sherpa culture, and challenging trails**. Trekkers can enjoy **glacial landscapes, monasteries, suspension bridges, and panoramic views of iconic peaks like Lhotse and Ama Dablam**. The **best time to visit** is from **March to May and September to November**, when the weather is clear, temperatures are moderate, and trails are safest for trekking.",
+  "activities": [
+    {"name": "Trekking", "img": "../images/everestbasecampact1.webp"},
+    {"name": "Scenic Flight to Lukla", "img": "../images/everestbasecampact2.webp"},
+    {"name": "Visit Tengboche Monastery", "img": "../images/everestbasecampact3.webp"}
+  ],
+  "foods": [
+    {"name": "Dal Bhat Tarkari", "img": "../images/everestbasecampdish1.jpg"},
+    {"name": "Gundruk Soup", "img": "../images/everestbasecampdish2.png"}
+  ],
+  "video": "../videos/everest base camp.mp4",
+  "images": ["../images/everestbasecamp1.png","../images/everestbasecamp2.jpg","../images/everestbasecamp3.jpg"]
+},
+
+  {
+  "id": "tour_du_montblanc",
+  "name": "Tour du Mont Blanc",
+  "place": "France/Italy/Switzerland",
+  "category": "adventure",
+  "shortDesc": "Classic European long-distance trek.",
+  "poster": "AdventureAdmin",
+  "description": "**Tour du Mont Blanc**, spanning **France, Italy, and Switzerland**, is one of the world’s most famous long-distance trekking circuits, renowned for its **stunning alpine scenery, glaciers, meadows, and charming mountain villages**. Trekkers experience **multi-day hiking, panoramic views of Mont Blanc, cultural immersion, and diverse landscapes across three countries**. The **best time to visit** is from **June to September**, when the trails are snow-free, weather is milder, and conditions are ideal for trekking.",
+  "activities": [
+    {"name": "Trekking", "img": "../images/mountblancact1.webp"},
+    {"name": "Cable Car Rides", "img": "../images/mountblancact2.webp"},
+    {"name": "Photography", "img": "../images/mountblancact3.webp"}
+  ],
+  "foods": [
+    {"name": "Tartiflette", "img": "../images/mountblancdish1.webp"},
+    {"name": "Polenta with Cheese", "img": "../images/mountblancdish2.jpg"}
+  ],
+  "video": "../videos/montblanc.mp4",
+  "images": ["../images/montblanc1.jpg","../images/montblanc2.jpeg","../images/montblanc3.webp"]
+},
+{
+  "id": "annapurna",
+  "name": "Annapurna Circuit",
+  "place": "Nepal",
+  "category": "adventure",
+  "shortDesc": "Challenging Himalayan trek with diverse landscapes.",
+  "poster": "AdventureGuide",
+  "description": "**Annapurna Circuit**, located in **Nepal**, is a world-famous trekking route renowned for its **diverse landscapes, including subtropical forests, high-altitude deserts, terraced fields, and Himalayan vistas**. Trekkers experience **villages, monasteries, glaciers, and panoramic views of peaks like Annapurna and Dhaulagiri**, along with rich local culture. The **best time to visit** is from **March to May and September to November**, when the weather is clear, temperatures are moderate, and trails are most accessible.",
+  "activities": [
+    {"name": "Trekking", "img": "../images/annapurnaact1.jpg"},
+    {"name": "Visit Muktinath Temple", "img": "../images/annapurnaact2.webp"},
+    {"name": "Stay in Tea Houses & Villages", "img": "../images/annapurnaact3.jpg"}
+  ],
+  "foods": [
+    {"name": "Vegetable Momos", "img": "../images/annapurnadish1.webp"},
+    {"name": "Tsampa Porridge", "img": "../images/annapurnadish2.jpg"}
+  ],
+  "video": "../videos/annapurna.mp4",
+  "images": ["../images/annapurna1.avif","../images/annapurna2.webp","../images/annapurna3.jpg"]
+},
+{
+  "id": "drakensberg",
+  "name": "Drakensberg Grand Traverse",
+  "place": "Drakensberg Mountains, South Africa",
+  "category": "adventure",
+  "shortDesc": "Multi-day trek across dramatic cliffs, waterfalls, and pristine wilderness.",
+  "poster": "AdventureExplorer",
+  "description": "**Drakensberg Grand Traverse**, located in the **Drakensberg Mountains, South Africa**, is a challenging high-altitude trek renowned for its **dramatic cliffs, rugged peaks, and pristine wilderness**. Trekkers experience **multi-day hiking, remote campsites, breathtaking vistas, and opportunities for wildlife spotting and photography**. The **best time to visit** is from **October to March**, when the weather is warmer, trails are accessible, and conditions are ideal for trekking and outdoor adventure.",
+  "activities": [
+    {"name": "Trekking", "img": "../images/drakensbergact1.webp"},
+    {"name": "Exploring Amphitheatre & Tugela Falls", "img": "../images/drakensbergact2.jpg"},
+    {"name": "Botanical Exploration", "img": "../images/drakensbergact3.webp"}
+  ],
+  "foods": [
+    {"name": "Chakalaka", "img": "../images/drakensbergdish1.jpg"},
+    {"name": "Bunny Chow", "img": "../images/drakensbergdish2.webp"}
+  ],
+  "video": "../videos/drakensberg.mp4",
+  "images": ["../images/drakensberg1.jpg", "../images/drakensberg2.jpg","../images/drakensberg3.jpg"]
+},
+{
+  "id": "laugavegur",
+  "name": "Laugavegur Trek",
+  "place": "Iceland",
+  "category": "adventure",
+  "shortDesc": "Highland trek through volcanic landscapes, glaciers, and colorful rhyolite mountains.",
+  "poster": "AdventureExplorer",
+  "description": "**Laugavegur Trek**, located in **Iceland**, is one of the country’s most famous trekking routes, renowned for its **otherworldly landscapes, colorful rhyolite mountains, hot springs, glaciers, and volcanic terrains**. Trekkers experience **multi-day hiking, camping, and incredible photography opportunities in Iceland’s unique natural environment**. The **best time to visit** is from **June to September**, when the weather is milder, trails are accessible, and daylight hours are long for trekking.",
+  "activities": [
+    {"name": "Trekking", "img": "../images/laugaveguract1.jpg"},
+    {"name": "Hot Springs Bathing", "img": "../images/laugaveguract2.webp"},
+    {"name": "Northern Lights Viewing", "img": "../images/laugaveguract3.jpg"}
+  ],
+  "foods": [
+    {"name": "Vegetable Soup", "img": "../images/laugavegurdish1.webp"},
+    {"name": "Steamed Vegetable Dumplings", "img": "../images/laugavegurdish2.jpg"}
+  ],
+  "video": "../videos/laugavegur.mp4",
+  "images": ["../images/laugavegur1.jpeg", "../images/laugavegur2.jpg","../images/laugavegur3.jpg"]
+},
+{
+  "id": "tajomaru",
+  "name": "Mount Tajomaru Trek",
+  "place": "Japan",
+  "category": "adventure",
+  "shortDesc": "Challenging Japanese mountain trek.",
+  "poster": "AdventureExplorer",
+  "description": "**Mount Tajomaru Trek**, located in **Japan**, is a scenic trekking route known for its **lush forests, panoramic mountain views, and serene natural landscapes**. The trek offers opportunities for **hiking, nature photography, and experiencing Japan’s tranquil mountain environment**. The **best time to visit** is from **April to November**, when the weather is pleasant, trails are accessible, and the surrounding scenery is at its most vibrant.",
+  "activities": [
+    {"name": "Trekking", "img": "../images/tajomaruact1.jpg"},
+    {"name": "Flora Exploration", "img": "../images/tajomaruact2.webp"},
+    {"name": "Nature Walks", "img": "../images/tajomaruact3.webp"}
+  ],
+  "foods": [
+    {"name": "Onigiri", "img": "../images/tajomarudish1.webp"},
+    {"name": "Vegetable Sushi Rolls", "img": "../images/tajomarudish2.webp"}
+  ],
+  "video": "../videos/mount tajomaro.mp4",
+  "images": ["../images/tajomaru1.webp","../images/tajomaru2.jpg","../images/tajomaru3.jpg"]
+},
+{
+  "id": "zanskar",
+  "name": "Chadar Trek (Zanskar Frozen River Trek)",
+  "place": "Ladakh, India",
+  "category": "adventure",
+  "shortDesc": "A thrilling winter trek over the frozen Zanskar River.",
+  "poster": "AdventureExplorer",
+  "description": "**Chadar Trek (Zanskar Frozen River Trek)**, located in **Ladakh, India**, is a unique winter trek along the **frozen Zanskar River**, renowned for its **breathtaking icy landscapes, frozen waterfalls, and remote Himalayan scenery**. Trekkers experience **walking on ice, camping on the frozen river, and witnessing the stark beauty of the high-altitude desert**. The **best time to visit** is from **January to February**, when the river is fully frozen and conditions are suitable for this challenging and extraordinary trek.",
+  "activities": [
+    {"name": "Trekking", "img": "../images/chadaract1.jpeg"},
+    {"name": "Camping", "img": "../images/chadaract2.jpg"},
+    {"name": "Wildlife Spotting", "img": "../images/chadaract3.webp"}
+  ],
+  "foods": [
+    {"name": "Skyu", "img": "../images/chadardish1.webp"},
+    {"name": "Chhurpi", "img": "../images/chadardish2.webp"}
+  ],
+  "video": "../videos/chadar.mp4",
+  "images": ["../images/chadar1.jpg", "../images/chadar2.png","../images/chadar3.jpg"]
+}
+
+]
